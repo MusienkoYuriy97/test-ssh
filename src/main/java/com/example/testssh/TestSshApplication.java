@@ -8,7 +8,7 @@ public class TestSshApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TestSshApplication.class, args);
-        int x = 1;
+        int x = 11;
     }
 
 }
